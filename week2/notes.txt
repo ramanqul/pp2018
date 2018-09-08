@@ -1,0 +1,56 @@
+Lecture #Week 2 by Raman Buzaubakov
+
+Questions from last lecture:
+ - What is a Programming?
+ - What do we need for programming?
+ - What is a syntax?
+ - What is a compiler?
+ - What is a command line interface?
+ - What does #include do?
+ - How to read input from CLI?
+ - How to output something to CLI?
+ 
+ 
+Missed examples from last week:
+ - size of each data type
+ - bool data type
+ - printf - function
+ - execution priority of arithmetical operations (Operator Precedence[1])
+ - mod division [2]
+
+This week:
+ - bit manipulation, or, xor, and, >>, << [4]
+	- the identity of information is bit (0 or 1)
+	- unary operators: or, and, xor, not, shift left, shift right
+ 
+ - if else operator [5]
+	- converts the statement into bool type
+	- if and only if condition of if statment is true only in this case it executes if body block
+	- multiple if statments vs if-else statements
+	-examples
+	
+ - loop operators: for, while, do while [6, 7]
+	- for loop
+	- while loop
+	- do while loop
+	- examples
+
+Lab 2 on http://acm.kbtu.kz
+
+ 
+ 
+ 
+ 
+ 
+References:
+[1] - https://en.cppreference.com/w/cpp/language/operator_precedence
+[2] - https://www.cprogramming.com/tutorial/modulus.html
+[3] - https://www.tutorialspoint.com/cplusplus/cpp_operators.htm
+[4] - https://www.cprogramming.com/tutorial/bitwise_operators.html
+[5] - https://en.cppreference.com/w/cpp/language/if
+[6] - https://en.cppreference.com/w/cpp/language/for 
+[7] - https://en.cppreference.com/w/cpp/language/while
+ 
+ 
+ 
+ 
