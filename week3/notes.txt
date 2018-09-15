@@ -1,0 +1,38 @@
+Lecture #Week 3 by Raman Buzaubakov
+
+Questions from last lecture:
+ - What is a statement?
+ - List me types of statements
+ - Differences between single if-else and multiple if statements?
+ - Differences between while and do while loop?
+ - What does for(;;) do?
+ 
+Missed examples from last week:
+ - for loop with characters
+ - breaks and continues
+
+This week:
+ - intoduction to arrays:
+	- declaration 
+	- initialization
+ - finding minimum and maximum inside arrays
+ - finding element inside array
+ - find and remove element
+ - reversing elements inside array
+ - finding sum of all elements inside array
+*self study topics*
+ - convert string to upper case
+ - search inside a string
+ - reversing word
+ 
+Lab 3 on http://acm.kbtu.kz
+
+ 
+ 
+ 
+References:
+[1] - https://en.cppreference.com/w/cpp/language/operator_precedence
+ 
+ 
+ 
+ 
