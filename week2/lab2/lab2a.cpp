@@ -2,22 +2,16 @@
 
 using namespace std;
 
-
+//Event or Odd number example
 int main() {
 
     int a;
     cin >> a;
 
-    if (a == 0) {
-
-        cout<< "None";
+    if (a % 2 == 0) {
+        cout << "Event";
     } else {
-
-        a = a%2;
-        if (a=0) {
-            cout << "ODD" ;
-
-        } else { cout << "Even";}
+        cout << "Odd";
     }
 
     return 0;
