@@ -1,0 +1,36 @@
+Lecture #Week 5 by Raman Buzaubakov
+
+Questions from last lecture:
+ - how to declare an array
+ - how to initialize array 
+
+
+Missed examples from last week:
+ - read input until not end of file
+ - alternative way to initialize array
+ - quiz 1 problems
+ 
+This week:
+ - nested loops
+    - use cases of nested loops
+    - break
+    - continue
+
+ - 2d arrays
+    - declaration
+    - initialization
+    - finding largest element in 2d array
+
+
+Lab 4 on http://acm.kbtu.kz
+
+ 
+
+References:
+[1] - https://en.cppreference.com/w/c/language/array_initialization
+[2] - https://en.cppreference.com/w/cpp/language/array
+
+ 
+ 
+ 
+ 

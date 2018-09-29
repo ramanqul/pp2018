@@ -1,0 +1,17 @@
+  Bonus:
+
+    create a checkboard game
+    which will check if is it possible to move a figure from default 
+    position to some position given by user from console.
+    Steps:
+    0. All figures are located at default positions
+    1. User enters figure's position and then enters target position
+    Hint: position is a input from two numbers - row and column
+    3. Output Yes if it is possible to make such move or No otherwise
+  
+Deadline:
+
+until midnight today (Saturday 30th of September)
+only 6 (3 girsl and 3 boys) first correct solutions will be accepted
+send solution to raman.buzaubakov@gmail.com
+
