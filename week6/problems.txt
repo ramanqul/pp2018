@@ -1,0 +1,25 @@
+Problem:
+Given a string like:
+Peter has 5 apples. Bob has 4 apples. John has 0 apples.
+
+You need to pring out it in following format:
+Peter - 5
+Bob - 4
+John - 0
+
+Total - 9
+
+hint: use atoi or stoi
+
+Advanced task:
+
+Peter has 5 apples. Bob has 4 apples. John has 0 apples. ....
+Peter - 5
+Bob - 4
+John - 0
+
+Total - 9
+
+hint: use while/for loop to solve it
+
+
