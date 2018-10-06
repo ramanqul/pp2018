@@ -1,0 +1,39 @@
+Lecture #Week 7 by Raman Buzaubakov
+
+Missed from last lecture:
+ - string to int
+ - int to string
+ - remaing string functions
+
+This week:
+ - functions
+  - paramter vs argument
+  - return types
+  - recursion
+  - examples
+  
+ - string functions:
+	- size
+     - len
+    - substr
+     - constructor for string// string s("123")
+    - find
+     - insert
+     - erase
+     - stringstream
+    - getline
+     - append
+     - string::npos //size_t
+     - copy
+     - printf
+
+ 
+Lab 6 on http://acm.kbtu.kz
+
+ 
+References:
+[1] - https://en.cppreference.com/w/cpp/string/basic_string
+ 
+ 
+ 
+ 

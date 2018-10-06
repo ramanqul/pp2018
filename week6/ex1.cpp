@@ -12,7 +12,9 @@ int main() {
 
 
     str = "Hello, "; //initialization
-    cin >> name;
+    // cin >> name;
+    
+    getline(cin, name);
 
     str = str + name; //concationation
 

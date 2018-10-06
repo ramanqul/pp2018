@@ -1,0 +1,30 @@
+Lecture #Week 6 by Raman Buzaubakov
+
+This week:
+ - introduction to strings
+ - string functions:
+	- size - returns size of string as number
+    - length - returns length of string similar as size function
+    - substr - cuts of substring from given string 
+    - constructor for string// string s("123") 
+    - find - finds position of a string inside given string
+     - insert 
+     - erase 
+     - stringstream 
+    - getline - reads whole line of string
+     - append -
+     - string::npos //size_t 
+     - copy - 
+     - printf 
+
+
+ 
+Lab 6 on http://acm.kbtu.kz
+
+ 
+References:
+[1] - https://en.cppreference.com/w/cpp/string/basic_string
+[2] - https://en.cppreference.com/w/cpp/language/function 
+ 
+ 
+ 
