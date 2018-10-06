@@ -1,6 +1,28 @@
 #include<iostream>
 
+
 using namespace std;
+
+int convertStringToInt(string numberAsString) {
+    char c = numberAsString.at(0);
+
+    return c - '0';
+}
+
+int getApplesAmountFromStr(string str, int fromIndex) {
+
+    int apples = 0;
+
+    int applesPosition = str.find("apples", fromIndex);
+    int hasWordPosition = str.find("has", fromIndex);
+
+    string s1 = str.substr(hasWordPosition + 4, 1); //number of apples but in string form
+    //convert string to number?
+    apples = convertStringToInt(s1);
+
+    return apples;
+}
+
 //substr
 int main() {
 
@@ -32,9 +54,20 @@ int main() {
 
     // cout << position << endl;
     //cout << str2 << endl;
-    cout << name1 << endl;
-    cout << name2 << endl;
-    cout << name3 << endl;
+    // cout << name1 << endl;
+    // cout << name2 << endl;
+    // cout << name3 << endl;
     
+
+    int petersApples = getApplesAmountFromStr(str, 0);
+    int bobsApples = getApplesAmountFromStr(str, 13);
+    int johnApples = getApplesAmountFromStr(str, 31);
+
+    cout << name1 << " - " << petersApples << endl;
+    cout << name2 << " - " << bobsApples << endl;
+    cout << name3 << " - " << johnApples << endl;
+    cout << "Total" << " - " << (petersApples + bobsApples + johnApples ) << endl;
+
+
     return 0;
 }
