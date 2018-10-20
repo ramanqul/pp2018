@@ -1,0 +1,29 @@
+Week #9
+
+Previous week:
+ - answer midterm questions
+ - solve 2 problems from midterm
+
+This week:
+    1. Introduction to Recursion
+    2. Difference between recursion and iteration
+    3. Examples:
+        - Finding sum from 1 to n
+        - Finding max in array
+        - Filtering string
+        - Reverse a string
+        - Converting number to binary representation
+        - Factorial example
+        - Power function example
+        - Fibonacci with stored results
+        - Finding GCD and GCM
+    4. Bonus task:
+        * Solve a problem using recursion:
+        You are given a man who can make 1 or 2 steps forward.
+        You need to calculate the number of ways the man can reach some position N;
+
+        Input: number 0 <= N <= 50000
+        Output: number of possible ways to walt to the position N
+        * First 3 boys and 3 girls will get the bonus point
+        * Deadline midnight of 21st of October
+        * raman.buzaubakov@gmail.com
