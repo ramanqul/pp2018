@@ -29,12 +29,19 @@ string convertBin(int n) {
     return reverseIt(result.str());
 }
 
+string int2Str(int num) {
+    stringstream ss;
+    ss << num;
+
+    return ss.str();
+}
+
 string convertBinRec(int n) {
     if (n == 0) {
         return "";
     }
 
-    return convertBinRec(n / 2) + sprintf("%d", (n % 2));
+    return convertBinRec(n / 2) + int2Str(n % 2);
 }
 
 
