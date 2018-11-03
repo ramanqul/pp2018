@@ -1,0 +1,24 @@
+Week #11
+
+Previos:
+ - vector and sets
+ - labs
+ - show example with vector and struct
+ - pass by pointer and pass by reference
+ 
+Today: Week 11. STL II. Map, stack, queue, deque
+ - maps example:
+    - find max value in map
+    - digits repetition
+ - stack example
+    - brackets problem
+ - queue example
+    - priority queue
+ - deque example
+    
+
+
+References:
+http://www.cplusplus.com/reference/map/map/
+http://www.cplusplus.com/reference/map/map/erase/
+http://www.cplusplus.com/reference/algorithm/swap/
