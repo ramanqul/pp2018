@@ -1,0 +1,25 @@
+Week #13
+
+This week:
+    - Algorithm package:
+        - count_if
+        - rotate
+        - fill
+        - unique
+        - for_each
+        - generate
+    - comparator
+    - pair
+    - next_permutation
+    - prev_permutation
+
+
+References:
+1. http://www.cplusplus.com/reference/algorithm/count_if/
+2. http://www.cplusplus.com/reference/algorithm/rotate/
+3. http://www.cplusplus.com/reference/algorithm/fill/
+4. http://www.cplusplus.com/reference/algorithm/unique/
+5. http://www.cplusplus.com/reference/algorithm/for_each/
+6. http://www.cplusplus.com/reference/algorithm/generate/
+7. http://www.cplusplus.com/reference/algorithm/next_permutation/
+
