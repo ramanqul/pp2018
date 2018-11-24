@@ -1,0 +1,15 @@
+Week #14
+
+This week:
+    - Pointers
+        - Pass by value and Pass by references
+        - Reference vs Pointer
+    - Data Structures
+        - Simple example
+        - Constructor
+        - Operators
+        - Nested structures
+
+References:
+1. http://www.cplusplus.com/doc/tutorial/pointers/
+2. http://www.cplusplus.com/doc/tutorial/structures/
